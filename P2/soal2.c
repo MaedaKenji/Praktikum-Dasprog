@@ -6,7 +6,7 @@ int main() {
     int total = 0;  // Untuk menghitung jumlah semua angka
     float rata_rata;  // Untuk menghitung rata-rata
 
-    
+    // Algoritma program
 
     // Menampilkan hasil perhitungan
     printf("Jumlah angka positif:");
