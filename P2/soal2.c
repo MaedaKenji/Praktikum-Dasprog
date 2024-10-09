@@ -6,10 +6,6 @@ int main() {
     int total = 0;  // Untuk menghitung jumlah semua angka
     float rata_rata;  // Untuk menghitung rata-rata
 
-    // Meminta input 10 angka dari pengguna
-    
-
-    // Menghitung rata-rata
     
 
     // Menampilkan hasil perhitungan
